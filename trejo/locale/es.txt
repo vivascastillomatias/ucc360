@@ -1,0 +1,35 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Sede Centro UCC
+
+## Skin
+
+### Botón
+Button_10A312B7_08BE_F60F_4195_90B047DEAE67.label = Menú Principal
+Button_1F63099C_08B2_B201_4180_4AEE029B5AC2.label = Menú Principal
+
+## Media
+
+### Título
+panorama_059A65E3_092B_D05B_4172_2F9ED83FD230.label = Auditorio ICDA
+panorama_193230D4_0872_F201_4192_473EC482C8CB.label = Patio principal
+panorama_193247B7_0872_DE0F_4198_35E1C440DD25.label = Camara Gesell
+panorama_1932BE23_0872_CE07_4190_316FD186857F.label = Biblioteca
+panorama_1AB36AE7_0872_560F_416E_6F567F887CB4.label = Auditorio Diego de Torres SJ.
+
+## Acción
+
+### URL
+LinkBehaviour_12FF59EF_08B1_F21F_4198_3DB19613330C.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_12FFB9EF_08B1_F21F_4191_1260BC77E6BE.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_141BCDFB_0892_B207_4195_2316245DE060.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_ED0A4AAC_FFC2_80EB_41D3_2F6E6CC8C69F.source = https://twitter.com/uccoficial
+LinkBehaviour_ED0A9AAC_FFC2_80EB_41D5_6E8B4BA37DB2.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_ED210AB4_FFC2_80FB_41C6_7803A7DDA596.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_ED215AB4_FFC2_80FB_4173_540840A8D5FD.source = https://twitter.com/uccoficial
+LinkBehaviour_ED21AAB4_FFC2_80FB_41E6_42A18AA194C7.source = https://www.facebook.com/UniversidadCatolicaCordoba

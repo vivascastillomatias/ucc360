@@ -1,0 +1,37 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Santa Julia
+
+## Skin
+
+### Botón
+Button_10A312B7_08BE_F60F_4195_90B047DEAE67.label = Menú Principal
+Button_1F63099C_08B2_B201_4180_4AEE029B5AC2.label = Menú Principal
+
+## Media
+
+### Título
+panorama_062D7B1F_0928_F1EB_4185_796508CB33CB.label = Establecimiento Santa Julia
+panorama_0694EC10_092B_F7F5_419C_014CE701143C.label = Corrales
+panorama_06979D04_0928_B1DD_4190_237DF5FFADAA.label = Corrales
+panorama_06AFE2CB_0928_506B_41A0_FC46F8C67037.label = Corrales
+panorama_3B9097A0_0872_5E01_417E_56D4D89F60EC.label = Laboratorios de Reproducción animal
+panorama_3B90CC7E_0872_7201_4160_E2956E83073A.label = Laboratorio de embriones
+panorama_3E3115E3_0872_F207_41A0_E41EECE63C7F.label = Aula Sixto Castellano
+
+## Acción
+
+### URL
+LinkBehaviour_12FF59EF_08B1_F21F_4198_3DB19613330C.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_12FFB9EF_08B1_F21F_4191_1260BC77E6BE.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_141BCDFB_0892_B207_4195_2316245DE060.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_ED0A4AAC_FFC2_80EB_41D3_2F6E6CC8C69F.source = https://twitter.com/uccoficial
+LinkBehaviour_ED0A9AAC_FFC2_80EB_41D5_6E8B4BA37DB2.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_ED210AB4_FFC2_80FB_41C6_7803A7DDA596.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_ED215AB4_FFC2_80FB_4173_540840A8D5FD.source = https://twitter.com/uccoficial
+LinkBehaviour_ED21AAB4_FFC2_80FB_41E6_42A18AA194C7.source = https://www.facebook.com/UniversidadCatolicaCordoba

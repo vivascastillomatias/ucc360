@@ -1,0 +1,28 @@
+#: locale=es
+
+## Tour
+
+### Description
+tour.description = Universidad Católica de Córdoba
+
+### Título
+tour.name = UCC Virtual Tour
+
+## Media
+
+### Título
+panorama_F154AE1C_FF26_2718_41E6_55F959D1C7F7.label = fondo menu
+
+## Acción
+
+### URL
+LinkBehaviour_047AACBE_0956_D097_4189_12EE5C62B804.source = https://www.ucc.edu.ar/visita360ucc/santa-julia
+LinkBehaviour_047AACBE_0956_D097_41A0_98DF25A32970.source = https://www.ucc.edu.ar/visita360ucc/ciencias-salud
+LinkBehaviour_047AACBE_0956_D097_41A1_968958CFC530.source = https://www.ucc.edu.ar/visita360ucc/campus
+LinkBehaviour_047ADCBE_0956_D097_4190_1E4BC078C061.source = https://www.ucc.edu.ar/visita360ucc/centro
+LinkBehaviour_057240AE_0A20_1FCD_4171_B750F6CB1788.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_057250AE_0A20_1FCD_417C_75D52C72C1F2.source = https://twitter.com/uccoficial
+LinkBehaviour_141BCDFB_0892_B207_4195_2316245DE060.source = http://www.instagram.com/uccoficial/
+LinkBehaviour_ED0A4AAC_FFC2_80EB_41D3_2F6E6CC8C69F.source = http://twitter.com/uccoficial
+LinkBehaviour_ED0A9AAC_FFC2_80EB_41D5_6E8B4BA37DB2.source = http://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_ED210AB4_FFC2_80FB_41C6_7803A7DDA596.source = https://www.instagram.com/uccoficial/

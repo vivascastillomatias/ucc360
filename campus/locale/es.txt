@@ -1,0 +1,55 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Campus UCC
+
+## Skin
+
+### Botón
+Button_10A312B7_08BE_F60F_4195_90B047DEAE67.label = Menú Principal
+Button_1F63099C_08B2_B201_4180_4AEE029B5AC2.label = Menú Principal
+
+## Media
+
+### Título
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD.label = Fotos LAB
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_0.label = LAB1-MECANICA-NEWTON-1
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_1.label = LAB7-ONDAS-MECANICAS-3
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_2.label = LAB6-CIRCUITOS-ELECTRICOS
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_3.label = LAB5-OPTICA
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_4.label = LAB4-MAGNETO-ELECTROSTATICA
+album_58C322DF_4887_ACF7_41C6_8144BBFBC4BD_5.label = LAB3-FLUIDOS-Y-CALOR
+panorama_E4B08002_FF1E_1AE8_41E9_34DDA1135281.label = Rectorado Exterior
+panorama_E6A9698D_FF1E_6DF8_41D0_48505F0BF082.label = Patio Central
+panorama_E6AB0725_FF1E_E528_41D6_3F1719C93037.label = Biblioteca libros
+panorama_E6AB1D3C_FF1E_2518_41C4_9C7EC28F7B3F.label = Biblioteca Recepción
+panorama_E6AB2733_FF1E_6528_41E2_C3393FDA30D9.label = Biblio Relax
+panorama_E6AB34BC_FF1E_1B18_41CC_A6F18DE7D62C.label = Aulas
+panorama_E6AB4DBA_FF1E_6518_41BE_BCF9D284B9D1.label = Hospital Veterinario
+panorama_E6AB5392_FF1E_7DE8_41EC_7D2349B103F6.label = Deportes
+panorama_E6AB5BAE_FF1E_2D38_41E7_A58FF3DA919B.label = Laboratorios  Ingeniería
+panorama_E6ABB3BA_FF1E_3D18_41E9_D045728C2B73.label = Biblioteca Hall
+panorama_E6ABC290_FF1E_3FE8_41C3_EDDF98F4C59A.label = Auditorio Campus
+panorama_E6ABC98D_FF1E_6DF8_41E8_082D0ECA0C77.label = Rectorado Interior
+panorama_E6ABD075_FF1E_1B28_41BB_C1835AFA38AC.label = Biblioteca zona lectura
+panorama_E6ABDDF6_FF1E_E528_41DA_BF28727BDB56.label = Aula Inteligente
+panorama_E6ABEA39_FF1E_2F18_41D8_6E844707670F.label = Biblioteca Jean Sonet SJ.
+panorama_E6ABF085_FF1E_7BE8_41EB_F8BEB2585EEE.label = Laboratorio de Ciencias Químicas
+video_60421146_4887_6DC9_41C5_6CCE4FA48C22.label = Bosque Nativo UCC(2)
+video_61B2687D_4987_5BBB_41CB_EB4C01226D87.label = Bosque Nativo UCC(2) 2
+
+## Acción
+
+### URL
+LinkBehaviour_12FFB9EF_08B1_F21F_4191_1260BC77E6BE.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_141BCDFB_0892_B207_4195_2316245DE060.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_19C1AF94_0A2B_570D_4160_6343F89820AD.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_ED0A4AAC_FFC2_80EB_41D3_2F6E6CC8C69F.source = https://twitter.com/uccoficial
+LinkBehaviour_ED0A9AAC_FFC2_80EB_41D5_6E8B4BA37DB2.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_ED210AB4_FFC2_80FB_41C6_7803A7DDA596.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_ED215AB4_FFC2_80FB_4173_540840A8D5FD.source = http://twitter.com/uccoficial
+LinkBehaviour_ED21AAB4_FFC2_80FB_41E6_42A18AA194C7.source = http://www.facebook.com/UniversidadCatolicaCordoba

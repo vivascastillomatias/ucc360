@@ -1,0 +1,36 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Ciencias de la Salud
+
+## Skin
+
+### Botón
+Button_10A312B7_08BE_F60F_4195_90B047DEAE67.label = Menú Principal
+Button_1F63099C_08B2_B201_4180_4AEE029B5AC2.label = Menú Principal
+
+## Media
+
+### Título
+panorama_2444A03C_0896_7201_419C_20CBE98EC669.label = Laboratorio de Microscopía
+panorama_24450BA1_0896_7603_41A1_056DE111554C.label = Morgue
+panorama_2445761C_0896_5E01_4175_F27DA9C8EF90.label = Clínica Odontológica
+panorama_2445A0B8_0896_B201_4177_D725C0ED6064.label = Zona Lectura
+panorama_2445E55A_0896_5201_4195_A3AC6FF3A3C2.label = Hall de ingreso
+panorama_26C95AAB_0891_B607_41A1_2A11F09E4667.label = Aula inteligente
+
+## Acción
+
+### URL
+LinkBehaviour_103417CB_0A39_371B_418E_CF44F36ADBAA.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_103427CB_0A39_371B_4185_CA00B2134D8E.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_103437CB_0A39_371B_419D_BC079852103D.source = https://twitter.com/uccoficial
+LinkBehaviour_117585CB_0A39_6B1B_41A3_5592C1FB8D8A.source = https://www.facebook.com/UniversidadCatolicaCordoba
+LinkBehaviour_117595CB_0A39_6B1B_4190_77E7779D4DB3.source = https://www.instagram.com/uccoficial/
+LinkBehaviour_1175A5CB_0A39_6B1B_4194_2EBBBD6105C7.source = https://twitter.com/uccoficial
+LinkBehaviour_12FF59EF_08B1_F21F_4198_3DB19613330C.source = https://www.ucc.edu.ar/visita360ucc
+LinkBehaviour_12FFB9EF_08B1_F21F_4191_1260BC77E6BE.source = https://www.ucc.edu.ar//visita360ucc
